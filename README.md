@@ -136,7 +136,7 @@ Built for the Bittensor community with ❤️
 If you find this useful, consider:
 - ⭐ Starring the repository
 - 🔗 Sharing with others
-- 💰 Tipping: [Your wallet address]
+- 💰 Tipping: [ solana:5xSC7oZLx8ELPVRYEqhQ9KN3k7UoX2kEdpLYPMCmD3to ]
 
 ## 🐛 Known Issues
 
@@ -148,7 +148,7 @@ If you find this useful, consider:
 
 For issues or questions:
 - Open a GitHub issue
-- Contact: [Your contact info]
+- Contact: 100ktradexplus@gmail.com]
 
 ---
 
